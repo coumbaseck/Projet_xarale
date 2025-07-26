@@ -15,7 +15,9 @@
 
 ### 1️⃣ Cloner le projet
 
-git clone https://github.com/coumbaseck/Projet-xarale.git
+git clone https://github.com/coumbaseck/Projet_xarale.git
+
+
 cd Projet-xarale
 
 -----
