@@ -4,8 +4,8 @@
 
 ## 🛠️ Technologies utilisées
 
-- **Backend** : NestJS + Prisma + PostgreSQL  
-- **Frontend** : Next.js 14 (App Router)  
+- **Backend** : NestJS + PostgreSQL  
+- **Frontend** : Next.js  (App Router)  
 - **API** : REST  
 - **Déploiement** : Vercel (frontend), Railway (backend)
 
