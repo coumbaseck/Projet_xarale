@@ -17,6 +17,8 @@
 
 git clone https://github.com/coumbaseck/Projet-xarale.git
 cd Projet-xarale
+
+-----
 2️⃣ Backend (NestJS)
 cd backend
 # Installer les dépendances
@@ -24,6 +26,8 @@ npm install
 
 # Lancer le serveur local
 npm run start:dev
+
+-----
 3️⃣ Frontend (Next.js)
 
 cd ../frontend-xarala
